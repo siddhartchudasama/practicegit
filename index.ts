@@ -1,5 +1,5 @@
 function addTwoNumbers(a: number, b: number): number {
-    return a + b;
+    return a - b;
 }
 function divideTwoNumbers(a: number, b: number): number {
     if (b === 0) {
